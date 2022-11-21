@@ -3,7 +3,8 @@ RawData
 SDMProtocolsExtractionAnalyses
 SDMResults
 FSLScriptsImagingOverlapping
-ExcelTablesFinalCoordinates
+ExcelTablesFinalCoordinatesStandardisedRegionNames
+FiguresOverlappingStandardisedRegionNames
 Publication
 
 Because the data volume is too high, I have uploaded only the raw data associated to the first results. 
